@@ -27,6 +27,10 @@ At deployment the company's main cold wallet (the deployer) received 20% of the 
 
 Releases are manual. They are not automatic and they have not been made every quarter. As of September 2026, five releases have been made and 75,000,000 LCR remain inside the contract. Since 4 August 2022, every released million goes to a permanent lock contract, not to the market.
 
+**This is not an unlock schedule for insiders, and the difference matters.** A screener reading the holder list sees one address with 75% of the supply and flags concentration. What that address actually is: the token contract, releasing at most 1% of supply per quarter, on a calendar that runs to April 2042, to a wallet fixed at deployment. Nobody can accelerate it — there is no function to change the amount, the destination or the pace, and the contract is immutable.
+
+And the released tokens did not reach the market either. Since 4 August 2022 every quarterly million has gone straight to the permanent lock at `0xb061dac5ab20fd7c5b4c4848689e74fa8925e887`, which has no withdrawal function of any kind. Four of the five releases made so far are sitting there, alongside the 124,604 LCR locked permanently in May 2022. In other words: of the 80% that started inside the contract, none of it has ever been sold, and the part that has left is locked harder than it was before.
+
 ## Distribution
 
 There was no seed sale, private sale or public sale, and no allocation to the founder or the team. The project was funded by the founder. Nobody received LCR for free. The only way the token entered circulation was through the liquidity pool on PancakeSwap, where anyone, including the founder, buys at market price.
@@ -134,6 +138,14 @@ Then, in this order:
 * `Aldeoes` — characters as NFTs with the image generated inside the contract. The only transferable one.
 
 All of them without external dependencies, 200 to 350 lines each, written that way on purpose so that one person can review them in an afternoon. Publication on the BSC testnet and an external review come before the main network.
+
+## Why LCR captures no value, and why that is deliberate
+
+Most tokens that score well on investment screens capture value for whoever holds them: a share of protocol fees, a buyback, a burn. LCR does none of that, and it never will.
+
+That is not an oversight. The CMVM analysis of 5 April 2022 concluded that LCR is not a security **on the condition** that it carries no right to income, no dividend, no interest-bearing deposit and no distribution of company results to holders. Every one of those features existed in the 2021 beta and was removed before launch, precisely so the token could stay outside the securities regime. Adding fee capture, a buyback obligation or a burn today would hand holders a claim on the company's results, and that is the line the 2022 analysis was drawn on.
+
+So the trade is explicit and permanent: LCR will always score zero on "value accrual" in any investment framework, because it is not an investment product. What it is, is a key that opens things inside the platform. Anyone evaluating it as a share of a business is evaluating the wrong thing — and we would rather say so here than let the number be read as neglect.
 
 ## Price
 

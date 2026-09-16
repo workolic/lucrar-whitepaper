@@ -18,7 +18,7 @@ Online content creation, dissemination and teaching in the financial area, marke
 
 ## Office
 
-The office is in the BlueBiz industrial park in Setúbal, with guarded gates and surveillance. Visits are by appointment: write to [[email protected]](/cdn-cgi/l/email-protection#a0d7cfd2cbcfccc9c3e0ccd5c3d2c1d28ed0d4) with the topic and reason for the meeting. The park has a meeting room the company can rent for events and there is parking next to the office.
+The office is in the BlueBiz industrial park in Setúbal, with guarded gates and surveillance. Visits are by appointment: write to workolic@lucrar.pt with the topic and reason for the meeting. The park has a meeting room the company can rent for events and there is parking next to the office.
 
 ## Share capital and the token
 

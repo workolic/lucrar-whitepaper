@@ -27,4 +27,4 @@ The company was set up on 18 March 2021, while the founder was still finishing t
 
 ## To check for yourself
 
-The registered trademark, the company registration, the token audit, the company policies, the Bank of Portugal letter and the record of the meeting with the CMVM are all published on [lucrar.pt/pt/informacoes-da-empresa](https://lucrar.pt/pt/informacoes-da-empresa/) and linked from [lucrar.pt/about-en](https://lucrar.pt/about-en/). If something does not add up, write to [[email protected]](/cdn-cgi/l/email-protection#6c1b031e070300050f2c00190f1e0d1e421c18).
+The registered trademark, the company registration, the token audit, the company policies, the Bank of Portugal letter and the record of the meeting with the CMVM are all published on [lucrar.pt/pt/informacoes-da-empresa](https://lucrar.pt/pt/informacoes-da-empresa/) and linked from [lucrar.pt/about-en](https://lucrar.pt/about-en/). If something does not add up, write to workolic@lucrar.pt.
