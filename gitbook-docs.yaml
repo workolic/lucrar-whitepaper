@@ -6,5 +6,6 @@ site:
       key: lucrar-project
       title: Lucrar Project
       path: lucrar-project
+      default: true
       content:
         directory: ./
