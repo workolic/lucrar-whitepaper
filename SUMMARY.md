@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lucrar project](lucrar-project.md)
+* [Lucrar project](README.md)
   * [What Lucrar is](what-lucrar-is.md)
   * [Utility of LCR](utility-of-lcr.md)
   * [Aldeia Lucrar: the game](aldeia-lucrar-the-game.md)

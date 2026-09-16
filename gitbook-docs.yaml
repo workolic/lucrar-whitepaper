@@ -1,0 +1,10 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Lucrar Project
+  structure:
+    - type: space
+      key: lucrar-project
+      title: Lucrar Project
+      path: lucrar-project
+      content:
+        directory: ./
