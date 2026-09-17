@@ -14,6 +14,28 @@ LCR is a utility token. Its only purpose is to be used inside the Lucrar project
 
 **Tools.** The tools area of the website (calculators, comparisons, simulators) is part of the platform the token opens.
 
+**Discounts on the Patreon plan.** The Mercado in Aldeia Lucrar has a counter where LCR is exchanged for discount codes on the Patreon plan. The counter keeps no accounting of its own: it calls the same API as the discount shop in the members area, so a member has one LCR balance and one only. What is earned playing and what is spent at the counter come out of the same place.
+
+There are seven tiers, and the price rises faster than the discount:
+
+| Discount | Cost |
+| ---: | ---: |
+| 5% | 40 LCR |
+| 10% | 100 LCR |
+| 15% | 180 LCR |
+| 20% | 280 LCR |
+| 25% | 400 LCR |
+| 30% | 560 LCR |
+| 40% | 900 LCR |
+
+With the cap of 40 LCR per member per month, that table costs time, and it is worth saying how much rather than letting the percentages speak for themselves: the 5% tier takes a month of playing, the 20% tier about seven months, and the 40% tier close to two years. That is a tension the project has not resolved. Either the cap goes up or the top of the table comes down; until one of those happens, the top tiers are further away than they look.
+
+Independently of the counter, the Patreon plan itself gives a 10%, 5% or 0% discount according to the level, free, without spending any LCR.
+
+The counter is connected and tested, but its window is empty until Patreon codes are loaded into it.
+
+**None of this touches the blockchain.** The LCR spent at the counter is an internal platform balance being debited. There is no swap, no pool and no transaction: it generates no trading volume, and it neither creates nor destroys tokens.
+
 **Events.** LCR and the project's NFTs were the ticket to the 2023 financial education event. Future events follow the same model.
 
 **Payments to contributors.** Writers who publish approved articles on the website are compensated in LCR.
