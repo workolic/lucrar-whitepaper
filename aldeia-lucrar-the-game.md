@@ -26,6 +26,30 @@ In each zone you answer multiple-choice questions. After every answer the game e
 * **Duels.** You can challenge a friend by sending a link; both answer the same questions and compare scores.
 * **Accounts.** Progress is saved to an email account, so it follows you from phone to computer. From level 3 the game asks for an email and says why: to keep your progress and your INT, the name the game gives to experience points. Someone who played without an email and then signs in with one that already exists no longer loses anything: the experience and the games played are added together, the best result and the best streak are kept, and the prizes and links move to the email account.
 
+## Characters and phases
+
+There are eight characters and five phases. You pick the character; the phase changes on its own as you level up. Neither gives any advantage in the game — no points, no energy, no LCR. All of them are drawn by the game’s own code, not loaded as image files.
+
+![The eight Aldeia Lucrar characters in their five phases — young, adult, veteran, master and legend — and the five status cards](https://lucrar.pt/wp-content/uploads/2026/09/image-51-scaled.png)
+
+The phases follow the level: **young** (1 to 7), **adult** (8 to 17), **veteran** (18 to 29), **master** (30 to 44) and **legend** (45 upwards).
+
+Four characters are available from the first question:
+
+* **Aldeão**, the villager, in green.
+* **Guarda-livros**, the bookkeeper, in yellow.
+* **Feirante**, the market trader, in terracotta.
+* **Poupada**, the saver, in pink.
+
+The other four open as you climb, at the same four levels that open the floors below the village:
+
+* **Mineira**, the miner, in brown — level 8, the level that opens Raízes.
+* **Vigia**, the lookout, in blue — level 18, the level that opens Cavernas de Cristal.
+* **Ferreira**, the blacksmith, in orange — level 30, the level that opens A Forja.
+* **Mestre de Obras**, the master builder, in straw yellow — level 45, the level that opens O Núcleo.
+
+The cards in the bottom row of the figure sit on top of this: they change how the character looks and set a minimum phase. They are the statuses, and they are explained next.
+
 ## Statuses
 
 The village has five statuses, one per door into the project. Each is a different card and each is tied to something real:
